@@ -6,7 +6,7 @@ export default function PoderPoliticoPage() {
       name: "Grupo Progressista",
       influence: "Alta",
       parties: ["PT", "PDT", "PSB"],
-      leaders: ["Gladson Cameli (ex-gov)", "Tião Viana"],
+      leaders: ["Gladson Cameli", "Tião Viana (ex-gov)"],
       electoralStrength: "Forte em Rio Branco e interior",
       strategy: "Alianças com movimentos sociais",
     },
@@ -14,7 +14,7 @@ export default function PoderPoliticoPage() {
       name: "Grupo Conservador/Republicano",
       influence: "Alta",
       parties: ["Republicanos", "PL", "PP"],
-      leaders: ["Márcio Bittar", "Jarbas Siqueira"],
+      leaders: ["Márcio Bittar", "Tião Bocalom"],
       electoralStrength: "Distribuído no estado",
       strategy: "Apoio de agronegócio e comércio",
     },
@@ -31,7 +31,7 @@ export default function PoderPoliticoPage() {
   const mainLeaders = [
     {
       name: "Gladson Cameli",
-      position: "Ex-Governador",
+      position: "Governador",
       influence: "Muito Alta",
       party: "Progressista",
     },

@@ -66,7 +66,7 @@ export const jamylElectionData = {
       year: 2022,
       position: "Deputado Estadual",
       state: "Acre",
-      party: "PL",
+      party: "Republicanos",
       votes: 2385,
       status: "Não eleito",
       percentage: 0.4,
