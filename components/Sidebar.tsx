@@ -51,6 +51,7 @@ const analysisItems = [
     icon: Landmark,
   },
   { href: "/diretrizes-campanha", label: "22. Diretrizes", icon: Users },
+  { href: "/2022", label: "23. Desempenho 2022", icon: BarChart3 },
 ];
 
 export default function Sidebar() {
